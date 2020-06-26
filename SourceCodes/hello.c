@@ -9,3 +9,8 @@ void dothings()
 {
 	print("something")
 }
+
+void newFunc()
+{
+	print("new function")
+}
