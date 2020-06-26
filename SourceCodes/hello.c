@@ -8,6 +8,7 @@ int main()
 void dothings()
 {
 	print("something")
+	print("added line in master branch");
 }
 
 void newFunc()
