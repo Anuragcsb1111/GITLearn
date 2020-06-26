@@ -4,3 +4,8 @@ int main()
 {
 	print("Hello World");
 }
+
+void dothings()
+{
+	print("something")
+}
